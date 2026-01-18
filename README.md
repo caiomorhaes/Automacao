@@ -2,4 +2,4 @@ Automação do processo de cadastro de milhares de produtos no Sistema usando Py
 -----------
 Automacao.py segue o codigo
 -----------
-produtos.csv segue o documento aonde os produtos estão alocados, essencial para o codigo rodar corretamente 
+Produtos.csv segue o documento aonde os produtos estão alocados, essencial para o codigo rodar corretamente 
